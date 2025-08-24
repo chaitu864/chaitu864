@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chaitu864
 - 👀 I’m interested in web development python
-- 🌱 I’m currently learning fullstack python
-- 💞️ I’m looking to collaborate on web development and python projects
+i had 1 year internship experience as python developer
+
 - 📫 How to reach me thotachaitu133@gmail.com
 
 
